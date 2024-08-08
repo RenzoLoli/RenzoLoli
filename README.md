@@ -1,5 +1,5 @@
 <img alt="Programmer Banner" src="./assets/banner.jpg" width='100%' height="200"/>
-<h2>Hola, Soy Renzo!</h2>
+<h2>👋&nbsp;Hola, Soy Renzo!</h2>
 
 ### 👨🏻‍💻 Sobre Mi
 
@@ -16,21 +16,31 @@
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=fff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Lua](https://img.shields.io/badge/-lua-05122A?style=flat&logo=lua&logoColor=fff)&nbsp;
 
 ### 🛠️ Herramientas
 
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-### 🔧 Conocimientos Adicionales
-
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
+
+### 🖥️ Manejo De Sistemas, DevOps y Deployment
+
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=fff)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
+
+### 🔧 Conocimientos Adicionales
+
+![Lua](https://img.shields.io/badge/-lua-05122A?style=flat&logo=lua&logoColor=fff)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=red)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 
 ### ⚙️ Analiticas de Github
 
