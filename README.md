@@ -6,7 +6,7 @@
 💡 &nbsp;Programador Junior con pasión por la investigación y el desarrollo de soluciones de software innovadoras.\
 🎓 &nbsp;Actualmente estoy cursando el 7mo ciclo la carrera de Ingenieria de Software en la Universidad Privada de Ciencias del Perú.\
 🌱 &nbsp;Mi formación se enfoca en la adopción de buenas prácticas y en la escritura de código limpio y eficiente.\
-✍️ &nbsp;En mis tiempos libres, me dedico a crear proyectos que solucionen problemas cotidianos en mi día a día.\
+✍️ &nbsp;En mis tiempos libres, me dedico a crear proyectos que solucionen problemas cotidianos en mi día a día.
 
 ### 🛠 Tecnologias y Herramientas
 
@@ -37,6 +37,6 @@
 
 ### 🤝🏻 Contacto
 
-<p align="left">
+<p align="center">
 <a href="mailto:renzololiruiz@gmail.com"><img src="https://img.shields.io/badge/-renzololiruiz@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
