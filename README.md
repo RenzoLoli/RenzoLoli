@@ -1,13 +1,13 @@
 ![Programmer Banner](assets/banner.jpeg)
-
-<!-- ## 👋 Hola!, Aqui Renzo -->
+<img alt="Programmer Banner" src="./assets/banner.jpeg" width='100%'/>
+<h2>Hola, Soy Renzo!</h2>
 
 ### 👨🏻‍💻 Sobre Mi
 
-💡&nbspProgramador Junior con pasión por la investigación y el desarrollo de soluciones de software innovadoras.\
-🎓&nbspActualmente estoy cursando el 7mo ciclo la carrera de Ingenieria de Software en la Universidad Privada de Ciencias del Perú.\
-🌱&nbspMi formación se enfoca en la adopción de buenas prácticas y en la escritura de código limpio y eficiente.\
-✍️&nbspEn mis tiempos libres, me dedico a crear proyectos que solucionen problemas cotidianos en mi día a día.\
+💡 &nbsp;Programador Junior con pasión por la investigación y el desarrollo de soluciones de software innovadoras.\
+🎓 &nbsp;Actualmente estoy cursando el 7mo ciclo la carrera de Ingenieria de Software en la Universidad Privada de Ciencias del Perú.\
+🌱 &nbsp;Mi formación se enfoca en la adopción de buenas prácticas y en la escritura de código limpio y eficiente.\
+✍️ &nbsp;En mis tiempos libres, me dedico a crear proyectos que solucionen problemas cotidianos en mi día a día.\
 
 ### 🛠 Tecnologias y Herramientas
 
