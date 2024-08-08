@@ -9,7 +9,7 @@
 🌱 Mi formación se enfoca en la adopción de buenas prácticas y en la escritura de código limpio y eficiente.\
 ✍️ En mis tiempos libres, me dedico a crear proyectos que solucionen problemas cotidianos en mi día a día.\
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 Tecnologias y Herramientas
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -27,7 +27,7 @@
 ![Lua](https://img.shields.io/badge/-lua-05122A?style=flat&logo=lua&logoColor=fff)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 
-### ⚙️ GitHub Analytics
+### ⚙️ Analiticas de Github
 
 <p align="center">
 <a href="https://github.com/RenzoLoli">
@@ -36,7 +36,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 Contacto
 
 <p align="left">
 <a href="mailto:renzololiruiz@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
