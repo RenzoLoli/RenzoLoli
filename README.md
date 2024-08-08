@@ -1,4 +1,4 @@
-<img alt="Programmer Banner" src="./assets/banner.jpeg" width='100%' height="100"/>
+<img alt="Programmer Banner" src="./assets/banner.jpg" width='100%' height="200"/>
 <h2>Hola, Soy Renzo!</h2>
 
 ### 👨🏻‍💻 Sobre Mi
