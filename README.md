@@ -28,15 +28,15 @@
 
 ### ⚙️ Analiticas de Github
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/RenzoLoli">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RenzoLoli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RenzoLoli&layout=compact&langs_count=8&theme=algolia"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenzoLoli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=es"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoLoli&layout=compact&langs_count=8&theme=algolia&locale=es"/>
 </a>
 </p>
 
 ### 🤝🏻 Contacto
 
-<p align="center">
+<p align="left">
 <a href="mailto:renzololiruiz@gmail.com"><img src="https://img.shields.io/badge/-renzololiruiz@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
