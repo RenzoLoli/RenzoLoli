@@ -1,5 +1,4 @@
-![Programmer Banner](assets/banner.jpeg)
-<img alt="Programmer Banner" src="./assets/banner.jpeg" width='100%'/>
+<img alt="Programmer Banner" src="./assets/banner.jpeg" width='100%' height="40"/>
 <h2>Hola, Soy Renzo!</h2>
 
 ### 👨🏻‍💻 Sobre Mi
